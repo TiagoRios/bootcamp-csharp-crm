@@ -1,38 +1,17 @@
-# DIO - Trilha .NET - Fundamentos
-www.dio.me
+# Bootcamp C# com CRM - Dynamics 365
 
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
+Participe do bootcamp Coding The Future Avanade, uma parceria com a multinacional de referência em consultoria tecnológica, Avanade. Com este programa, você irá conhecer e aprimorar seu conhecimento em programação C# com foco em CRM Dynamics, uma das soluções mais impactantes no mercado corporativo atual.
 
-## Contexto
-Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
+Destinado a profissionais de tecnologia ou aspirantes que desejam aprimorar suas habilidades em C#, o programa oferece um caminho direto para o crescimento profissional e acesso às crescentes oportunidades do mercado de tecnologia.
 
-## Proposta
-Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
-![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
+Nesta trilha, você irá desenvolver suas habilidades com projetos práticos, desafios de códigos e mentorias com experts da Avanade. Além disso, você irá aprender a usar Inteligência Artificial (AI) e Machine Learning para desenvolver insights avançados e automatizar processos.
 
-A classe contém três variáveis, sendo:
+Além disso, ao participar do bootcamp, você ficará disponível na DIO Talent Match para tech recrutadores nas oportunidades da Avanade.
 
-**precoInicial**: Tipo decimal. É o preço cobrado para deixar seu veículo estacionado.
+Inscreva-se até 17/11
 
-**precoPorHora**: Tipo decimal. É o preço por hora que o veículo permanecer estacionado.
+## Projetos
 
-**veiculos**: É uma lista de string, representando uma coleção de veículos estacionados. Contém apenas a placa do veículo.
-
-A classe contém três métodos, sendo:
-
-**AdicionarVeiculo**: Método responsável por receber uma placa digitada pelo usuário e guardar na variável **veiculos**.
-
-**RemoverVeiculo**: Método responsável por verificar se um determinado veículo está estacionado, e caso positivo, irá pedir a quantidade de horas que ele permaneceu no estacionamento. Após isso, realiza o seguinte cálculo: **precoInicial** * **precoPorHora**, exibindo para o usuário.
-
-**ListarVeiculos**: Lista todos os veículos presentes atualmente no estacionamento. Caso não haja nenhum, exibir a mensagem "Não há veículos estacionados".
-
-Por último, deverá ser feito um menu interativo com as seguintes ações implementadas:
-1. Cadastrar veículo
-2. Remover veículo
-3. Listar veículos
-4. Encerrar
-
-
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Projeto 1: Sistema para um estacionamento;
+Projeto 2: Aplicativo do tipo canvas com power plataform;
+Projeto 3: Desenvolvendo soluções no Dynamics 365 com extensão SDK. 
