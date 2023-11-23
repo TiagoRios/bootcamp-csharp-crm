@@ -1,3 +1,6 @@
+# Este bootcamp não foi concluído!
+Não estava conseguindo me conectar ao dataverse com a aplicação xrmtoolbox. cancelei a inscrição do bootcamp. Agora só posso me inscrever novamente tendo uma assinatura.
+
 # Bootcamp C# com CRM - Dynamics 365
 
 Participe do bootcamp Coding The Future Avanade, uma parceria com a multinacional de referência em consultoria tecnológica, Avanade. Com este programa, você irá conhecer e aprimorar seu conhecimento em programação C# com foco em CRM Dynamics, uma das soluções mais impactantes no mercado corporativo atual.
